@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "description": "Comprar comida para la semana",
+        "status": "done",
+        "createdAt": "2024-09-14T20:50:39.570747",
+        "updatedAt": "2024-09-14T20:50:39.574747"
+    },
+    {
+        "id": 2,
+        "description": "Comprar comida para el mes ",
+        "status": "done",
+        "createdAt": "2024-09-14T20:52:10.714411",
+        "updatedAt": "2024-09-14T20:52:10.719265"
+    }
+]
