@@ -59,7 +59,7 @@ def actualizar_tarea(tarea_id, description=None, status=None):
 # Ejemplo de uso
 if __name__ == "__main__":
     # Agregar una nueva tarea
-    agregar_tarea("Terminar el proyecto de Django")
+    agregar_tarea("Terminar el proyecto")
     
     # Actualizar una tarea existente
     actualizar_tarea(2, description="Comprar comida para el mes ", status="done")
